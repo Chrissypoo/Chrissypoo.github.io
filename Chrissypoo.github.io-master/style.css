@@ -1,0 +1,27 @@
+/*practicing styles*/
+
+body {
+	background-image: url(Images/Alien.jpg);
+	background-size: 100% 100%
+    background-repeat: no-repeat;
+	background-color: grey;
+	color: white;
+
+}
+h1 {
+	font-family: Chiller;
+	text-decoration: underline;
+}
+
+img {
+	width: 10%;
+	height: 15%;
+}
+
+a {
+	text-decoration: none;
+}
+
+ul li {
+	list-style-type: none;
+}
