@@ -1,0 +1,48 @@
+body{
+	background-color: lavender;
+	font-family: Helvetica, Arial, sans-serif;
+}
+
+header{
+	background-color: #D4F5F5
+}
+
+header h1{
+	text-align: center;
+	font-size: 60px;
+	font-family: Arial;
+	color: pink
+}
+
+.fancyfont{
+	font-family: 'Aref Ruqaa', serif;
+}
+
+nav ul li {
+	display: inline-block;
+	font-size: 35px;
+	margin: 0 30px;
+	text-decoration: underline;
+}
+
+nav ul {
+	text-align: center;
+
+}
+
+.container {
+	width: 80%;
+	margin: 0 auto;
+	color: black
+}
+
+li a:link, li a:active, li a:hover, li a:visited {
+	color: #AA0000;
+	text-decoration: none;
+}
+
+li a:hover {
+	text-decoration: underline;
+	font-weight: bold;
+	color: #000;
+}
